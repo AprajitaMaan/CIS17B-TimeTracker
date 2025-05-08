@@ -2,6 +2,7 @@
 #include <sstream>
 #include <iomanip>
 
+// Convert seconds into HH:MM:SS string format
 std::string formatTime(int seconds) {
     int hrs = seconds / 3600;
     int mins = (seconds % 3600) / 60;
