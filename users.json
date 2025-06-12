@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "is_admin": true,
+        "created_at": "2023-01-01T00:00:00Z"
+    },
+    "user1": {
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "is_admin": false,
+        "created_at": "2023-06-01T12:00:00Z"
+    },
+    "admin001": {
+        "password": "$2y$12$5jTLKqU4xH.GgakwdcVJXuLGxqlmpUn9olq3Q.EUiL6ujpkdGAWbW",
+        "is_admin": true,
+        "created_at": "2025-06-12T04:05:00+00:00"
+    },
+    "testuser": {
+        "password": "$2y$12$BWp7F0RHH1uysTvq8cZGBOQOKe4YOYvn4hLRubMzCDms56g2WrqfW",
+        "is_admin": false,
+        "created_at": "2025-06-12T04:06:34+00:00"
+    }
+}
